@@ -1,5 +1,8 @@
-- 👋 Hi, my name is Patricio Vega. I am a Software Engineer from Santiago de Chile, Programming since 2011.
-- More about me in :computer: www.patovega.com 
+<H1><CENTER> 👋 Hi, my name is Patricio Vega.</CENTER> </H1>
+
+
+- 👨‍🎓 I am a Software Engineer from Santiago de Chile 🇨🇱. 
+- ⌨️ Programming since 2011, More about me in :computer: www.patovega.com 
 - :heart: I love programming, :soccer:, :beer: and walk with my :dog2: 
 - 👀 I’m interested in Programming, SQL, Big Data and Information Retrieval.
 
