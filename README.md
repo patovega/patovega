@@ -2,8 +2,7 @@
 
 
 - 👨‍🎓 I am a Software Engineer from Santiago de Chile 🇨🇱. 
-- ⌨️ Programming since 2011, More about me in :computer: www.patovega.com 
-- :heart: I love programming, :soccer:, :beer: and walk with my :dog2: 
+- ⌨️ More about me in :computer: www.patovega.com 
 - 👀 I’m interested in Programming, SQL, Big Data and Information Retrieval.
 
 
