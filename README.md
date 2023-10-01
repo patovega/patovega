@@ -3,7 +3,7 @@
 
 - 👨‍🎓 I am a Software Engineer from Santiago de Chile 🇨🇱. 
 - ⌨️ More about me in :computer: www.patovega.com 
-- 👀 I’m interested in  SQL & Computer Vision.
+- 👀 I’m interested in  IA & Computer Vision.
 
 
 <!---
